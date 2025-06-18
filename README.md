@@ -1,7 +1,7 @@
 # boompad
 Simple hackpad with 8 keys, an oled display, 4 Neo-LEDs, and an rotary encoder
 
-![image](./images/complete.png)
+![image](assets/complete.png)
 
 ### Inspiration
 I simply wanted to kind of "max out" the hardware side of my hackpad, so I challenged myself to use the pins of the pico in the most efficient way
@@ -29,7 +29,7 @@ Others:
 
 |            Schematic             |            PCB             |                               Case                               |
 |:--------------------------------:|:--------------------------:|:----------------------------------------------------------------:|
-| ![image](./images/schematic.png) | ![image](./images/pcb.png) | ![image](./images/caseBottom.png) ![image](./images/caseTop.png) |
+| ![image](assets/schematic.png) | ![image](assets/pcb.png) | ![image](assets/caseBottom.png) ![image](assets/caseTop.png) |
 
 
 
